@@ -1,0 +1,53 @@
+/*#trump_container {
+    position: absolute;
+}
+
+#trump_sprite {
+    background-image: url(images/Trump_spritesheet_farve-05.svg);
+    background-size: 452% 400%;
+    width: 25vw;
+    height: 30vw;
+}
+
+.trump_gaer {
+    background-position: 0 0;
+}
+
+.trump_staer {
+    background-position: 0 33.2%;
+}
+
+.trump_arme {
+    background-position: 0 66.6%;
+}
+
+.trump_humoer {
+    background-position: 0 100%;
+}*/
+
+#unicorn_container {
+    position: absolute;
+}
+
+#unicorn_sprite {
+    background-image: url(images/Unicorn_spritesheet_farve-05.svg);
+    background-size: 460% 383%;
+    width: 25vw;
+    height: 30vw;
+}
+
+.unicorn_staer {
+    background-position: 0 0;
+}
+
+.unicorn_vinker {
+    background-position: 0 33.2%;
+}
+
+.unicorn_hopper {
+    background-position: 0 66.6%;
+}
+
+.unicorn_gaer {
+    background-position: 0 100%;
+}
