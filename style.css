@@ -1,4 +1,17 @@
-/*#trump_container {
+#scene {
+    width: 100vw;
+    height: 56.25vw;
+    position: relative;
+}
+
+#baggrund {
+    width: 100vw;
+    height: 52.3vw;
+    background-image: url(images/Baggrund_version2.jpg);
+    background-size: 100%;
+}
+
+#trump_container {
     position: absolute;
 }
 
@@ -23,7 +36,7 @@
 
 .trump_humoer {
     background-position: 0 100%;
-}*/
+}
 
 #unicorn_container {
     position: absolute;
